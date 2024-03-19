@@ -17,8 +17,8 @@ This Java application performs database operations on a PostgreSQL table named `
 
 ### Database & Table Setup
 
-1. ** Make sure PostgreSQL is installed 
-2. ** Create database named "DB-A4" on pgAdmin.
+1. Make sure PostgreSQL is installed 
+2. Create database named "DB-A4" on pgAdmin.
 3.  Connect to the newly created database and query Students.sql to create students table
 
 ### Application Setup
