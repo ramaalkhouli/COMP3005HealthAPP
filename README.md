@@ -51,7 +51,7 @@ Compile the Java application. Run UserLogin then Choose the type of user to perf
 ### Database & Table Setup
 
 1. Make sure PostgreSQL is installed 
-2. Create database named "rama" on pgAdmin.
+2. Create database named "rama_alkhouli" on pgAdmin.
 3.  Connect to the newly created database and query DDL.sql (Inside SQL folder)
 
 ### Application Setup
